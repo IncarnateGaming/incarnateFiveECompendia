@@ -1,0 +1,14 @@
+{
+	"name": "incarnateFiveECompendia",
+	"title": "Incarnate 5e Compendia",
+	"description": "Loads the 5e data of the Incarnate System.",
+	"version": "0.1.1",
+	"author": "Philip aka ProNobis",
+	"systems": ["dnd5e"],
+	"scripts": ["./incarnateFiveECompendia.js"],
+	"styles": [],
+    	"manifest": "https://incarnatefoundry.s3.us-east-2.amazonaws.com/*/public/modules/incarnateFiveECompendia/module.json",
+	"minimumCoreVersion": "0.4.1",
+   	"download": "https://incarnatefoundry.s3.us-east-2.amazonaws.com/*/public/modules/incarnateFiveECompendia/incaranteFiveECompendia.zip",
+	"packs": []
+}
